@@ -1,4 +1,4 @@
-# Word-Guess-Game
+# Unit 4 Game
 
 This game is a word guess game for Washington state cities! It is very fun, and very hard!
 

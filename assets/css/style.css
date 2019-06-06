@@ -1,0 +1,81 @@
+body{
+    background-image: url("../images/background.png");
+    background-size: cover;
+}
+
+#title{
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    background-color: darksalmon;
+}
+
+#title h1{
+    font-size: 10vh;
+}
+
+#instructions{
+    margin: 0 auto;
+    text-align: start;
+    width: 50%;
+    height: 50%;
+    background-color: violet;
+}
+
+#instructions p{
+    font-size: 2vh;
+}
+
+#score{
+    position: relative;
+    left: 25%;
+    width: 25%;
+    height: 10vh;
+    margin: 0 auto;
+    text-align: start;
+    background-color: aqua;
+    float: left;
+}
+
+#score h1{
+    font-size: 8vh;
+}
+
+#winLose{
+    position: relative;
+    left: 25%;
+    width: 25%;
+    height: 10vh;
+    margin: 0 auto;
+    text-align: start;
+    background-color: aquamarine;
+    float: left;
+}
+
+#winLose h1{
+    font-size: 5vh;
+}
+
+#image-size{
+    position: relative;
+    top: 12vh;
+    right: 50vh;
+    width: 10%;
+    height: 5%;
+    margin: 2vh;
+}
+
+#totalscore{
+    position: relative;
+    top: 10vh;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    height: 13vh;
+    background-color: darksalmon;
+}
+
+#totalscore h1{
+    font-size: 5vh;
+}

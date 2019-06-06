@@ -1,6 +1,6 @@
 # Unit 4 Game
 
-This game is a word guess game for Washington state cities! It is very fun, and very hard!
+This game is a gem collector game! It is very fun, and very hard!
 
 ## Getting Started
 
